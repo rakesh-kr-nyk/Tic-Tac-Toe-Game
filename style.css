@@ -8,6 +8,7 @@
 body{
    font-family: "Poppins", sans-serif;
    background-color: #5A1E76;
+   user-select: none;
 }
 main{
     display: flex;
@@ -44,6 +45,7 @@ flex-wrap: wrap;
 justify-content: center;
 align-items: center;
 gap: 20px;
+user-select: none;
  }
 
  .scores{
