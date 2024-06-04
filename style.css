@@ -25,7 +25,7 @@ main{
     flex-direction: column;
     gap: 30px;
     padding: 40px;
-    min-width: 390px;
+    min-width: 350px;
  }
  .tic,.toe,.tac{
 font-size: 84px;
@@ -141,7 +141,7 @@ gap: 20px;
 
     .container {
         padding: 20px;
-        width: 100%;
+        width: 300px;
     }
     .tic,.tac,.toe{
         font-size: 52px;
